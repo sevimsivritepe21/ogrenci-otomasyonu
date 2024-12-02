@@ -1,0 +1,15 @@
+101, Mine, Cimen, bilgisayarMuhGiris, BMG103, 73
+101, Mine, Cimen, matematik, MAT104, 66
+101, Mine, Cimen,  Lojik, LO202, 37
+102, Harun, Can, difDenklemler, DIF205, 56
+102, Harun, Can, veriYapilari, VY201, 79
+102, Harun, Can, ingilizce, ING109, 91
+103, Deniz, Kayar, Fizik, FIZ103, 43
+103, Deniz, Kayar, algoritmaVePrograglama, AVP101, 67
+103, Deniz, Kayar, bilgisayarMuhGiris, BMG103, 83
+104, Sinem, Filiz, Lojik, LO202, 87
+104, Sinem, Filiz, Elektronik, EL107, 61
+104, Sinem, Filiz, veriYapilari, VY201, 72
+105, Emine, Yildirim, matematik, MAT104, 79
+105, Emine, Yildirim, Lojik, LO202, 82
+105, Emine, Yildirim, algoritmaVePrograglama, AVP101, 65
